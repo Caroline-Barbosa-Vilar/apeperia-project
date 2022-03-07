@@ -1,3 +1,17 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
+.container {
+  padding-right: 6%;
+  padding-left: 6%;
+}
+.button {
+  text-align: center;
+  display: block;
+  width: 100%;
+  max-width: 350px;
+  box-sizing: border-box;
+  padding: 1rem 2rem;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
