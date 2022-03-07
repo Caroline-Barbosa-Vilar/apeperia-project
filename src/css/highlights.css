@@ -1,4 +1,4 @@
-.chamada  {
+.highlight  {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -12,7 +12,7 @@
     padding-bottom: 2.5rem;
 }
 
-.chamada__titulo {
+.highlight__title {
     font-family: 'Montserrat', serif;
     font-size: 2rem;
     font-weight: 700;
@@ -21,13 +21,13 @@
     margin-bottom: 1.5rem;
 }
 
-.chamada__texto {
+.highlight__text {
     font-size: 1.25rem;
     line-height: normal;
 
     margin: 0 auto 2.5rem;
 }
 
-.chamada__botao {
+.highlight__button {
     width: 100%;
 }
