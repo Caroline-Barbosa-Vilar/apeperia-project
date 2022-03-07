@@ -11,7 +11,6 @@
     padding-top: 12.25rem;
     padding-bottom: 2.5rem;
 }
-
 .highlight__title {
     font-family: 'Montserrat', serif;
     font-size: 2rem;
@@ -20,14 +19,12 @@
 
     margin-bottom: 1.5rem;
 }
-
 .highlight__text {
     font-size: 1.25rem;
     line-height: normal;
 
     margin: 0 auto 2.5rem;
 }
-
 .highlight__button {
     width: 100%;
 }
