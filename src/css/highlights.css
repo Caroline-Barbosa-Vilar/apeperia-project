@@ -3,13 +3,13 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-    background-color: #00161C;
-    color: #FFF;
+    background-color: var(--bg-highlights-mobile);
+    color: var(--white);
     padding-top: 12.25rem;
     padding-bottom: 2.5rem;
 }
 .highlight__title {
-    font-family: 'Montserrat', serif;
+    font-family: var(--montserrat);
     font-size: 2rem;
     font-weight: 700;
     text-transform: uppercase;
