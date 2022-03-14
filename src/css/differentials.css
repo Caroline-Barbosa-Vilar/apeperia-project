@@ -1,0 +1,35 @@
+.differentials {
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+}
+.differentials_list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.differentials_item {
+  max-width: 350px;
+  box-sizing: border-box;
+  padding: 2rem 0 2rem 5rem;
+  background-repeat: no-repeat;
+  background-position: top 1.25rem left 2.5rem;
+}
+.differentials_item--time {
+  background-image: url(../img/icone-relogio.png);
+}
+.differentials_item--focus {
+  background-image: url(../img/icone-dinheiro.png);
+}
+.differentials_item--specialists {
+  background-image: url(../img/icone-quimica.png);
+}
+.item_title {
+  color: var(--dark-gray);
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+.item_text {
+  line-height: normal;
+}
