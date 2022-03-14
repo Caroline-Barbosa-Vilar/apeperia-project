@@ -1,0 +1,35 @@
+.highlights {
+  background-color: var(--gray);
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+}
+.highlights_title {
+  color: var(--dark-gray);
+  font-size: 1.5rem;
+  font-family: var(--montserrat);
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.highlights_panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.highlights_panel-image {
+  width: 100vh;
+  box-shadow: 0 2px 10px 5px #00000020;
+  margin-bottom: .5rem;
+}
+.highlights_panel-text {
+  font-weight: 700;
+  font-size: 1.2rem;
+  line-height: normal;
+}
+.highlights_button {
+  color: var(--dark-red);
+  border-color: var(--dark-red);
+  margin: 0 auto;
+}
