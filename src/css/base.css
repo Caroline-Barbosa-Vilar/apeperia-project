@@ -18,7 +18,9 @@
 
   --montserrat: 'Montserrat', sans-serif;
 }
-
+html {
+  box-sizing: border-box;
+}  
 body {
   font-family: 'Open Sans', sans-serif;
 }
