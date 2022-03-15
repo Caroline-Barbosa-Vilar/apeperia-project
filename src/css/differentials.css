@@ -33,3 +33,11 @@
 .item_text {
   line-height: normal;
 }
+@media (min-width: 1024px) {
+  .differentials {
+    background-color: var(--light-gray);
+  }
+  .differentials_list {
+    justify-content: space-around;
+  }
+}
