@@ -10,13 +10,13 @@
     border-bottom: 1px solid var(--header-mobile-border);
     position: absolute;
 }
-.header__logo {
+.header_logo {
     margin-bottom: 1rem;
 }
-.header__nav {
+.header_nav {
     text-align: center;
 }
-.header__link {
+.header_link {
     font-size: 1.1rem;
     display: inline-block;
     margin-right: .7rem;
