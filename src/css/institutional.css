@@ -40,3 +40,8 @@
 .institutional_video {
   width: 100%;
 }
+@media (min-width: 768px) {
+  .institutional_contact--email {
+    display: inline-block;
+  }
+}
