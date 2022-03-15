@@ -28,3 +28,18 @@
 .about_image {
   width: 100%;
 }
+@media (min-width: 1024px) {
+  .about {
+    display: flex;
+  }
+  .about_content {
+    margin-right: 3rem;
+  }
+  .about_title {
+    text-align: left;
+  }
+  .about_text--divison {
+    border-bottom: 1px solid var(--medium-gray);
+    padding-bottom: 1.5rem;
+  }
+}
