@@ -34,3 +34,15 @@
   border-color: var(--dark-red);
   margin: 0 auto;
 }
+/* @media (min-width: 1024px) {
+  .highlights_panel {
+    display: inline-block;
+    margin: 0 auto;
+  }
+  .highlights_panel-image, 
+  .highlights_panel-text {   
+    width: 100%; 
+    max-width: 420px;
+    margin: 0 1.3rem 2rem 0;
+  }
+} */
