@@ -23,3 +23,8 @@
 .call__button {
     width: 100%;
 }
+@media (min-width: 768px) {
+    .call__text {
+        max-width: 600px;
+    }
+}
