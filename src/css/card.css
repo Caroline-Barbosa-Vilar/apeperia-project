@@ -57,3 +57,8 @@
 .card_button--mega {
   border-color: var(--rates-card-mega);
 }
+@media (min-width: 768px) {
+  .card {
+    max-width: 400px;
+  }
+}
