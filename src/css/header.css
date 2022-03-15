@@ -23,3 +23,8 @@
     margin-bottom: 1.25rem;
     margin-left: .7rem;
 }
+@media (min-width: 1024px) {
+    .header {
+        flex-direction: row;
+    }
+}
