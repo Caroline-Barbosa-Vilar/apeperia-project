@@ -38,3 +38,9 @@ body {
   border: 1px solid var(--white);
   border-radius: 5px;
 }
+@media (min-width: 1024px) {
+  .container {
+    padding-left: calc((100% - 940px)/2);
+    padding-right: calc((100% - 940px)/2);
+  }
+}
