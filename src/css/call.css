@@ -28,3 +28,14 @@
         max-width: 600px;
     }
 }
+@media (min-width: 1024px) {
+    .call  {
+        background-image: url(../img/bg-intro.jpg);
+        background-size: cover;
+        padding-top: 8.25rem;
+    }
+    .call_title {
+        font-size: 3.25rem;
+        margin-bottom: 2rem;
+    }
+}
