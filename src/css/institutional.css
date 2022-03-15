@@ -45,3 +45,18 @@
     display: inline-block;
   }
 }
+@media (min-width: 1024px) {
+  .institutional_content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+  }
+  .institutional_video {
+    align-self: flex-end;
+    width: 375px;
+  }
+  .institutional_contact--email {
+    display: block;
+  }
+}
