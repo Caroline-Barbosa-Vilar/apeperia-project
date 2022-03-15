@@ -17,3 +17,67 @@
     flex-direction: column;
     align-items: center;
   }
+  .card {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--white);
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px 2px #00000010;
+  }
+  .card_title {
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: .75rem 0;
+    margin-bottom: .5rem;
+    border-bottom: 1px solid var(--gray);
+  }
+  .card_content {
+    padding: 0 15%;
+  }
+  .card_prize {
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+  .card_text {
+    color: var(--gray-font);
+    line-height: 28px;
+  }
+  .card_button {
+    font-size: 1.2rem;
+    font-weight: 700;
+    width: 100%;
+    align-self: center;
+    padding: .75rem 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .card--start {
+    color: var(--rates-card-start);
+  }
+  .card--ultra {
+    color: var(--rates-card-ultra);
+  }
+  .card--mega {
+    color: var(--rates-card-mega);
+  }
+  .card_button--start {
+    border-color: var(--rates-card-start);
+  }
+  .card_button--ultra {
+    border-color: var(--rates-card-ultra);
+  }
+  .card_button--mega {
+    border-color: var(--rates-card-mega);
+  }
+  @media (min-width: 768px) {
+    .card {
+      max-width: 400px;
+    }
+  }
