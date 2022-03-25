@@ -7,7 +7,7 @@ Apeperia is an agency that specializes in creating custom applications for small
 <div align='center'>
   <figure>
     <a href='https://bo83dev.github.io/apeperia-project/' target='_blank'>
-      <img src=''>
+      <img src='./src/img/apeperia_banner.png'>
     </a>
   </figure>
 </div>
@@ -17,7 +17,7 @@ Apeperia is an agency that specializes in creating custom applications for small
 
 This page was developed during the course 'Responsive Layout - Mobile First' at [Alura](https://www.alura.com.br) technology school.
 
-## 💻 Languages used:
+## Languages used:
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -50,7 +50,7 @@ Apeperia é uma agência especializada em criar aplicações customizadas para p
 
 Essa página foi desenvolvida durante o curso de 'Layout reponsivo - Mobile First da escola de tecnologia [Alura](https://www.alura.com.br).
   
-
+  
 ## Linguagens utilizadas :
 
   <div>
