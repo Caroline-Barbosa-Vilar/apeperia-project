@@ -9,7 +9,8 @@ Apeperia is an agency that specializes in creating custom applications for small
     <a href='https://bo83dev.github.io/apeperia-project/' target='_blank'>
       <img src='./src/img/apeperia_banner.png' target="_blank">
     </a>
-    <figcaption>To check the site, click the image! ^^</figcaption>
+    
+    <figcaption>Click in the image to check the page!</figcaption>
   </figure>
 </div>
 
