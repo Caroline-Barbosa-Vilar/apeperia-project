@@ -143,4 +143,4 @@ Desktop
 
 <hr>
 
-Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
