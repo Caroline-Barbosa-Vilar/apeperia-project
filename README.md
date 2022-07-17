@@ -22,7 +22,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Access the Project](#access-the-project)
 
-- [Application](#aplication)
+<!-- - [Application](#aplication) -->
 
 <br>
 
@@ -95,7 +95,7 @@ Desktop
 
 - [Acesse o projeto](#acesse-o-projeto)
 
-- [Aplicação](#aplicação)
+<!-- - [Aplicação](#aplicação) -->
 
 
 <br>
